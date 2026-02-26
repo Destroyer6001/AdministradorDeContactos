@@ -56,16 +56,18 @@ Contienen la lógica de negocio de la aplicación, permitiendo un código manten
 
 - Crear entidad
 - Listar entidades
+- Obtener entidad
 - Actualizar entidad
-- Eliminar entidad
+- Eliminar entidades seleccionadas
 
 ### Contactos
 
 - Crear contacto
 - Listar contactos
+- Obtener entidad
 - Actualizar contacto
 - Eliminar contacto
-- Asociar contactos a una entidad
+
 
 ---
 
