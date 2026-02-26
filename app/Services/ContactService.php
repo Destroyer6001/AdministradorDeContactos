@@ -28,6 +28,7 @@ class ContactService
     {
         try
         {
+            
             $contact = new Contact();
             $contact->first_name = $contactRequest->first_name;
             $contact->last_name = $contactRequest->last_name;
